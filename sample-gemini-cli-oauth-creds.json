@@ -1,0 +1,6 @@
+{
+  "access_token": "YOUR_GEMINI_CLI_ACCESS_TOKEN_HERE",
+  "refresh_token": "YOUR_GEMINI_CLI_REFRESH_TOKEN_HERE",
+  "token_type": "Bearer",
+  "expiry_date": 1735689600000
+}
